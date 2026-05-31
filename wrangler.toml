@@ -1,6 +1,0 @@
-name = "antalyawise"
-type = "javascript"
-account_id = ""
-workers_dev = true
-main = "src/index.ts"
-compatibility_date = "2024-01-01"
